@@ -54,4 +54,3 @@ blade-echo/
 ![对练场与操作提示](docs/screenshots/arena.png)
 
 当前版本提供一对一对练、血量和架势系统、基础敌人行为，以及碰撞调试显示。
-
